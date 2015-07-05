@@ -1,0 +1,34 @@
+Utilities:
+-ADD Webservices utility
+	-add patch to get more than one month of data from webservices
+-create linearize module
+	-for 
+-create strain module for creating different strain products
+	-ariel strain etc. 
+-create time-series module
+	- noise removal
+	- fitting
+-plotting module for standard strain plots
+
+Objects:
+-station
+	-Position
+	-name
+	-components
+	-Metadata
+-component
+	-name
+	-timeseries
+-timeseries
+	-
+-metadata
+	-install data
+	-install notes
+	-etc
+
+Apps:
+-simple application with basic workflow
+
+
+
+
